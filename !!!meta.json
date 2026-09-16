@@ -1,0 +1,120 @@
+{
+	"formatVersion": 2,
+	"appVersion": "0.105.0",
+	"files": [
+		{
+			"isClone": false,
+			"noteId": "IqDaJqrW71LN",
+			"notePath": [
+				"IqDaJqrW71LN"
+			],
+			"title": "16 - Mercredi",
+			"notePosition": 30,
+			"prefix": null,
+			"isExpanded": false,
+			"type": "text",
+			"mime": "text/html",
+			"attributes": [
+				{
+					"type": "label",
+					"name": "dateNote",
+					"value": "2026-09-16",
+					"isInheritable": false,
+					"position": 10
+				}
+			],
+			"format": "markdown",
+			"dataFileName": "16 - Mercredi.md",
+			"attachments": [
+				{
+					"attachmentId": "0dENict9bfRU",
+					"title": "microsoftedge.microsoft.com.ico",
+					"role": "favicon",
+					"mime": "image/x-icon",
+					"position": 10,
+					"dataFileName": "16 - Mercredi_microsoftedge.microsoft.com.ico"
+				},
+				{
+					"attachmentId": "2jTS7UMFzGLA",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/png",
+					"position": 10,
+					"dataFileName": "16 - Mercredi_image.png"
+				},
+				{
+					"attachmentId": "45m1BnfkIlDH",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/png",
+					"position": 10,
+					"dataFileName": "1_16 - Mercredi_image.png"
+				},
+				{
+					"attachmentId": "78XFcOyh0jZu",
+					"title": "addons.mozilla.org.ico",
+					"role": "favicon",
+					"mime": "image/x-icon",
+					"position": 10,
+					"dataFileName": "16 - Mercredi_addons.mozilla.org.ico"
+				},
+				{
+					"attachmentId": "CpsXbXzsAt3R",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/png",
+					"position": 10,
+					"dataFileName": "2_16 - Mercredi_image.png"
+				},
+				{
+					"attachmentId": "FLkt9ZoFZaQO",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/png",
+					"position": 10,
+					"dataFileName": "3_16 - Mercredi_image.png"
+				},
+				{
+					"attachmentId": "gk30jCTKNYhP",
+					"title": "addons.mozilla.org-page-assist-0d2451d2.jpeg",
+					"role": "coverImage",
+					"mime": "image/jpg",
+					"position": 10,
+					"dataFileName": "16 - Mercredi_addons.mozilla.org-page-assist-0d2451d2.jpeg"
+				},
+				{
+					"attachmentId": "LunMJx7cNRSQ",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/png",
+					"position": 10,
+					"dataFileName": "4_16 - Mercredi_image.png"
+				},
+				{
+					"attachmentId": "Mu5bmWime8jM",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/png",
+					"position": 10,
+					"dataFileName": "5_16 - Mercredi_image.png"
+				},
+				{
+					"attachmentId": "RIRcv7WisIk0",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/png",
+					"position": 10,
+					"dataFileName": "6_16 - Mercredi_image.png"
+				},
+				{
+					"attachmentId": "WP2L4wk7eRvV",
+					"title": "image.png",
+					"role": "image",
+					"mime": "image/png",
+					"position": 10,
+					"dataFileName": "7_16 - Mercredi_image.png"
+				}
+			]
+		}
+	]
+}
